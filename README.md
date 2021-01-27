@@ -7,13 +7,13 @@ You can submit proposal on this document with Pull Request. you can also create 
 
 # Virtual Meetups subjects proposals 
 
-- Introduction of each members ambassadors, candidate or Polkadot supporter  ( proposed by francois )
+- Introduction of each members french ambassadors, candidate or Polkadot supporter  ( proposed by francois )
 - Introduction of [Archipel](https://github.com/luguslabs/archipel) project using substrate ( proposed by francois )  
 - Your project using substrate/polkadot or your subject proposal, dev, business, design  idea to share. Create a Pull Request to edit.
 
 # Virtual Meetup schedules
 
-An issue with Pools  formeetup date will be done when subject proposals will be fill.
+An issue with Pools for the date will be done when subject proposals will be fill.
 
 # Hackathons
 
