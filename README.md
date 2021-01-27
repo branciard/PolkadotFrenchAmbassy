@@ -15,9 +15,9 @@ You can submit proposal on this document with Pull Request. you can also create 
 
 An issue with Pools  formeetup date will be done when subject proposals will be fill.
 
-# ETH denver
+# Hackathons
 
-There will be a polkadot track at ETH denver 2021, we can create a team ? here the issue to decide on it.
+- There will be a Polkadot track at ETH denver 2021, we can create a team ? here the [issue](https://github.com/branciard/PolkadotFrenchAmbassy/issues/1) to decide on it.
 
 
 # Translation
@@ -27,3 +27,4 @@ One of the ambassador candidate has start to make  grenchtranslation of the offi
 You can help him, by clicking help translate and the top of the page.
 If help is needed to review translation, you can also use and create issue here.
 
+# You section idea ? add a Pull Request 
