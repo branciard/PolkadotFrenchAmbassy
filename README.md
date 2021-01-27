@@ -22,7 +22,7 @@ An issue with Pools for the date will be done when subject proposals will be fil
 
 # Translation
 
-One of the ambassador candidate has start to make  grenchtranslation of the offical polkadot documentation : https://wiki.polkadot.network/en/.
+One of the ambassador candidate has start to make french translation of the offical polkadot documentation : https://wiki.polkadot.network/en/.
 
 You can help him, by clicking help translate and the top of the page.
 If help is needed to review translation, you can also use and create issue here.
