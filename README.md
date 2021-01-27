@@ -27,4 +27,9 @@ One of the ambassador candidate has start to make french translation of the offi
 You can help him, by clicking help translate and the top of the page.
 If help is needed to review translation, you can also use and create issue here.
 
+# W3F Bounties
+
+W3F Bounties are small rewards, offered as an incentive to solve specific issues within your Github.
+
+
 # You section idea ? add a Pull Request 
