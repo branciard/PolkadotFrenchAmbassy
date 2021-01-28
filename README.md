@@ -28,4 +28,4 @@ You can help him, by clicking help translate and the top of the page.
 If help is needed to review translation, you can also use and create issue here.
 
 
-# You section idea ? add a Pull Request 
+# Your section idea ? add a Pull Request 
