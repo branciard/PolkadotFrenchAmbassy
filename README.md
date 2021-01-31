@@ -17,7 +17,7 @@ An issue with Pools for the date will be done when subject proposals will be fil
 
 # Hackathons
 
-- **ETH denver 2021 virtual Denver** : There will be a Polkadot track at ETH denver 2021, we can create a team ? here the [issue](https://github.com/branciard/PolkadotFrenchAmbassy/issues/1) to decide on it.
+- **ETH denver 2021 virtual Denver** : There will be a Polkadot bounty track at ETH denver 2021, we can create a team ? here the [issue](https://github.com/branciard/PolkadotFrenchAmbassy/issues/1) to decide on it.
 
 
 # Translation
